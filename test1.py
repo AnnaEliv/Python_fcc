@@ -5,3 +5,4 @@ else:
     print("große Zahl")
     print("Fest")
     print("Rest")
+    print("ok")
