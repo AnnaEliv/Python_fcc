@@ -4,3 +4,4 @@ if x <=3:
 else:
     print("große Zahl")
     print("Fest")
+    print("Rest")
